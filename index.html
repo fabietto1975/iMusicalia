@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>iMusicalia - La bottega di famiglia</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link href='http://fonts.googleapis.com/css?family=Unna' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet/less" href="css/less/bootstrap.less"/>
+        <link  rel='stylesheet' type='text/css' href="css/main.css"/>
+        <style>
+            html { height: 100% }
+            body { height: 100%;
+                   margin: 15px;
+                   padding: 15px;
+                   background-image: url("img/sfondoLegno.jpg");
+                   background-size: 1440px 800px;}
+            .carousel .item {-webkit-transition: opacity 3s;
+                             -moz-transition: opacity 3s; -ms-transition: opacity 3s; -o-transition: opacity 3s; transition: opacity 3s;}
+            .carousel .active.left {left:0;opacity:0;z-index:2;}
+            .carousel .next {left:0;opacity:1;z-index:1;}
+            .modal-dialog { width: 900px; }
+        </style>
+
+    </head>
+    <body>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+
+
+        </script>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-11">
+                    <img src="img/logoTransp.png" height="60" alt="logo" />
+                </div>
+                <div class="col-lg-1">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <a  href="http://www.facebook.com/iMusicalia" target="_blank">
+                                <img id="linkfb"
+                                     data-toggle="tooltip" data-placement="bottom"
+                                     data-original-title="Seguici su Facebook!"
+                                     src="img/facebook.png" height="30" alt="Facebook" id="fblogo"/>
+                            </a>
+                        </div>
+                        <div class="col-lg-6">
+                            <a href="http://www.youtube.com/user/iMusicalia1"  target="_blank"><img src="img/youtube.png" height="30"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <div id="myCarousel" class="carousel slide  text-center" style="margin: 0 auto">
+                        <div class="carousel-inner">
+                            <div class="active item">
+                                <img src="img/iMusicalia2.jpg"/>
+                            </div>
+                            <div class="item">
+                                <img src="img/iMusicalia3.jpg"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div>
+                        <ul class="nav nav-justified">
+                            <li>
+                                <a data-toggle="modal"
+                                   data-remote="./home.html"
+                                   data-target="#myModalHome" >Chi siamo</a>
+                            </li>
+                            <li>
+                                <a data-toggle="modal"
+                                   data-remote="./gruppo.html"
+                                   data-target="#myModal" >Il gruppo</a>
+                            </li>
+                            <li>
+                                <a data-toggle="modal"
+                                   data-remote="./dischi.html"
+                                   data-target="#myModal2" >I dischi</a>
+                            </li>
+                            <li>
+                                <a data-toggle="modal"
+                                   data-remote="./libri.html"
+                                   data-target="#myModalLibri" >I libri</a>
+                            </li>
+                            <li>
+                                <a data-toggle="modal"
+                                   data-remote="./concerti.html"
+                                   data-target="#myModalConcerti" >I concerti</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>  </div>
+
+            <div id="myModal" class="modal">
+                <div class="modal-body"></div>
+            </div>
+            <div id="myModal2" class="modal">
+                <div class="modal-body"></div>
+            </div>
+            <div id="myModalHome" class="modal">
+                <div class="modal-body"></div>
+            </div>
+            <div id="myModalLibri" class="modal">
+                <div class="modal-body"></div>
+            </div>
+            <div id="myModalConcerti" class="modal">
+                <div class="modal-body"></div>
+            </div>
+            <hr>
+            <footer>
+                <div class="row">
+                    <div class="col-lg-2">
+                        <p><img src="img/logoTransp.png" height="30" alt="logo" /></p>
+                    </div>
+                    <!--div class="col-lg-4">
+                        <div class="fb-activity" data-site="http://www.facebook.com/iMusicalia"
+                             data-action="likes, recommends" data-colorscheme="light" data-header="true"></div>
+                    </div-->
+                    <div class="col-lg-5">
+                        <div class="text-right fb-like"
+                             data-href="http://www.facebook.com/iMusicalia"
+                             data-send="false" data-show-faces="false" data-layout="button_count" data-colorscheme="dark"
+                             data-font="arial" data-width="400px"></div>
+                    </div>
+                    <div class="col-lg-5 text-right">
+                        <div class="fb-follow"
+                             data-href="http://www.facebook.com/iMusicalia "
+                             data-colorscheme="dark" data-layout="standard"
+                             data-show-faces="true" data-width="400px">
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
+        </div> <!-- /container -->
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="js/libs/less.js-1.4.1/less.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.js"><\/script>')</script>
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
+
+        <script>
+
+            (function(d, t) {
+                var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+                g.src = '//www.google-analytics.com/ga.js';
+                s.parentNode.insertBefore(g, s)
+            }(document, 'script'));
+
+            $('#myCarousel').carousel({
+                interval: 3000
+            });
+            $('#linkfb').tooltip();
+
+        </script>
+    </body>
+</html>

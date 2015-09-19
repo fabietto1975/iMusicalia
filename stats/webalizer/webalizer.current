@@ -1,0 +1,1613 @@
+# Webalizer V2.21-02 Incremental Data - 05/31/2011 21:29:12
+2011 5 31 21 29 12
+6359 5246 242 143 23 118 105624902 1071 274 0
+13 1 340 1 31
+919 891 13669209 16 64 14
+189 163 3283015 13 55 11
+13 3 13644 8 5 5
+27 26 312917 10 10 8
+513 462 8693076 12 93 10
+0 0 0 0 0 0
+129 112 1519822 13 15 9
+118 92 760416 8 30 6
+135 126 1857731 12 24 10
+127 92 576595 15 42 11
+0 0 0 0 0 0
+15 9 33714 9 12 8
+0 0 0 0 0 0
+205 199 4034977 10 28 8
+148 138 1689382 11 16 10
+46 13 65432 9 41 8
+634 562 7998121 19 94 18
+0 0 0 0 0 0
+91 19 106184 13 84 11
+152 135 5985498 15 17 9
+0 0 0 0 0 0
+45 12 57464 14 37 11
+123 111 1623088 12 21 11
+307 214 2660557 18 29 13
+139 127 1913093 12 20 11
+659 473 10242910 14 94 13
+53 13 73013 10 47 9
+254 206 2123640 15 68 11
+256 226 22438793 11 41 8
+803 580 10243521 21 62 20
+259 242 3649090 13 22 11
+19 15 52463 14
+141 109 791904 43
+105 47 467686 72
+10 0 1654 8
+49 13 64977 39
+33 8 45116 25
+36 9 41180 31
+34 12 49394 27
+90 4 24083 9
+14 5 25109 8
+175 35 433712 73
+39 8 44254 36
+444 313 5071963 81
+337 245 4519334 32
+212 162 3471960 52
+946 880 11303598 91
+412 371 6875967 42
+387 364 5635181 30
+668 621 12224495 65
+747 713 15582232 53
+165 119 1695222 64
+161 121 1170028 53
+781 735 27951838 83
+354 337 8081552 40
+0
+0
+0
+5246
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+418
+0
+0
+0
+0
+0
+0
+692
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 325 0 936537 409 160
+/img/grottetaburno.gif
+1 9 0 252144 0 0
+/img/sceneggiati_roll.gif
+1 59 0 126357 0 0
+/img/incantamenti.gif
+1 23 0 225275 0 0
+/IT/concerti.html
+0 40 0 68308 3 6
+/img/home_roll.gif
+1 60 0 51063 0 0
+/IT/crediti.html
+0 5 0 5250 1 1
+/img/intro_12.jpg
+1 75 0 310751 0 0
+/img/rosalidia.jpg
+1 30 0 1025154 0 0
+/img/eng.gif
+1 62 0 198348 0 0
+/img/concerti_roll.gif
+1 63 0 80148 0 0
+/img/tit_concerti.gif
+1 39 0 49099 0 0
+/img/tit_dischi.gif
+1 21 0 21711 0 0
+/img/crediti.gif
+1 69 0 249543 0 0
+/otiempochevochiove.mp3
+0 3 0 3067560 0 0
+/img/foto_concerti.gif
+1 63 0 4578181 0 0
+/img/compilationPassion.gif
+1 25 0 895886 0 0
+/IT/bibliografia.html
+0 1 0 1751 0 0
+/img/intro_11.jpg
+1 71 0 2008015 0 0
+/img/cantarpasqua.gif
+1 60 0 99654 0 0
+/img/pixel.gif
+1 57 0 17271 0 0
+/img/allestimenti.gif
+1 59 0 108884 0 0
+/img/musicalia.gif
+1 24 0 541732 0 0
+/img/tit_gruppo.gif
+1 30 0 36708 0 0
+/img/cbombard.gif
+1 4 0 79680 0 0
+/IT/intro.html
+0 91 0 239136 16 9
+/img/gruppo_roll.gif
+1 55 0 78730 0 0
+/IT/gruppo.html
+0 34 0 140758 0 1
+/img/intro_10.jpg
+1 73 0 1509684 0 0
+/IT/
+0 81 0 712450 14 4
+/img/sanctamaria.jpg
+1 7 0 493493 0 0
+/img/terem.jpg
+1 6 0 473958 0 0
+/img/glossario_roll.gif
+1 65 0 90779 0 0
+/js/jquery/jquery-ui-1.8.9.custom.min.js
+1 20 0 4148770 0 0
+/img/corrado.jpg
+1 31 0 1645890 0 0
+/img/angelo.jpg
+1 38 0 3695832 0 0
+/img/entra_off.gif
+1 64 0 112533 0 0
+/img/titerno.gif
+1 28 0 2784391 0 0
+/css/jquery/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 19 0 7281 0 0
+/img/tit_recensioni.gif
+1 11 0 16588 0 0
+/img/libri_roll.gif
+1 64 0 75672 0 0
+/img/recensioni_roll.gif
+1 70 0 102922 0 0
+/img/argiento.gif
+1 24 0 527886 0 0
+/img/bibliografia_roll.gif
+1 64 0 49996 0 0
+/img/bibliografia.gif
+1 66 0 172590 0 0
+/img/enter_off.gif
+1 65 0 111124 0 0
+/img/tit_home.gif
+1 60 0 56783 0 0
+/img/concerti.gif
+1 63 0 83876 0 0
+/IT/archivio_concerti.html
+0 21 0 931566 1 2
+/img/br_menu_dx.gif
+1 56 0 24128 0 0
+/img/amerigo.jpg
+1 41 0 2308916 0 0
+/img/attilio.jpg
+1 33 0 2355116 0 0
+/img/gruppo.gif
+1 59 0 86038 0 0
+/img/viulan.jpg
+1 5 0 296955 0 0
+/SeraPassajePeSottoNaCella.mp3
+0 6 0 5530453 0 0
+/css/imusicalia.css
+1 79 0 298998 0 0
+/img/compilationItaly.gif
+1 27 0 765161 0 0
+/img/recapiti_roll.gif
+1 61 0 48500 0 0
+/css/jquery/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+1 21 0 9483 0 0
+/img/bg.gif
+1 61 0 91607 0 0
+/img/tit_archivio.gif
+1 21 0 35166 0 0
+/img/miti.gif
+1 11 0 281369 0 0
+/css/jquery/smoothness/jquery-ui-1.8.9.custom.css
+1 21 0 650849 0 0
+/img/tit_recapiti.gif
+1 5 0 7980 0 0
+/img/birkin.gif
+1 6 0 152682 0 0
+/img/br_body_up.gif
+1 58 0 18118 0 0
+/Serenata.mp3
+0 3 0 1932000 0 0
+/img/recensioni.gif
+1 62 0 90758 0 0
+/IT/dischi.html
+0 27 0 282952 0 7
+/img/concerti_home.gif
+1 32 0 1535447 0 0
+/img/br_footer_dx.gif
+1 63 0 28321 0 0
+/img/br_menu_sx.gif
+1 61 0 26387 0 0
+/img/infelix.gif
+1 27 0 244525 0 0
+/css/jquery/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+1 18 0 5676 0 0
+/IT/recensioni.html
+0 12 0 134004 0 3
+/img/compilationTribu.gif
+1 25 0 699916 0 0
+/img/enter.gif
+1 72 0 127333 0 0
+/img/incantamenti_7.gif
+1 4 0 212876 0 0
+/img/intro_09.jpg
+1 58 0 1817068 0 0
+/img/home.gif
+1 67 0 56746 0 0
+/IT/cantarpasqua.html
+0 6 0 58728 0 0
+/img/collectioprima.gif
+1 25 0 1222087 0 0
+/img/tit_glossario.gif
+1 5 0 6610 0 0
+/img/giaquinto.gif
+1 7 0 328734 0 0
+/img/dischi_roll.gif
+1 56 0 74356 0 0
+/img/sf_footer.gif
+1 64 0 20153 0 0
+/IT/teatro.html
+0 7 0 10884 0 1
+/img/allestimenti_roll.gif
+1 55 0 105983 0 0
+/IT/recapiti.html
+0 7 0 12873 0 0
+/img/entra.gif
+1 67 0 118413 0 0
+/img/tit_libri.gif
+1 8 0 7960 0 0
+/img/incantamenti_6.gif
+1 5 0 160655 0 0
+/img/crediti_roll.gif
+1 55 0 57127 0 0
+/img/intro_08.jpg
+1 70 0 3270603 0 0
+/js/jquery/jquery-1.5.min.js
+1 23 0 1947006 0 0
+/img/br_body_dx.gif
+1 62 0 18923 0 0
+/IT/testi_incantamenti.html
+0 1 0 26868 1 0
+/img/incantamenti_5.gif
+1 5 0 163585 0 0
+/img/intro_07.jpg
+1 68 0 2532151 0 0
+/img/br_footer_sx.gif
+1 64 0 28567 0 0
+/img/disch.gif
+1 65 0 85883 0 0
+/img/header_03.gif
+1 57 0 676265 0 0
+/js/script.js
+1 97 0 269959 0 0
+/img/archivio.gif
+1 64 0 117556 0 0
+/img/antonella.jpg
+1 29 0 1622264 0 0
+/img/corou.jpg
+1 6 0 747516 0 0
+/img/archivio_roll.gif
+1 62 0 108269 0 0
+/img/recapiti.gif
+1 59 0 122081 0 0
+/img/tinchitera.gif
+1 25 0 120776 0 0
+/BellaCheVaiAllAcqua.mp3
+0 6 0 6248096 0 0
+/css/jquery/smoothness/images/ui-bg_glass_65_ffffff_1x400.png
+1 21 0 7950 0 0
+/img/anna.jpg
+1 36 0 1868220 0 0
+/img/eng_roll.gif
+1 62 0 92710 0 0
+/img/incantamenti_4.gif
+1 4 0 100212 0 0
+/img/header_02.gif
+1 55 0 664269 0 0
+/IT/glossario.html
+0 5 0 300265 0 0
+/IT/libri.html
+0 7 0 18858 0 1
+/AbballateFiglieMjeja.mp3
+0 7 0 9113542 0 0
+/IT/testi_tinchitera.html
+0 3 0 167169 0 0
+/img/intro_05.jpg
+1 65 0 1341424 0 0
+/img/cantarpasqua_roll.gif
+1 62 0 104288 0 0
+/img/header_01.gif
+1 60 0 1307160 0 0
+/img/br_body_sx.gif
+1 58 0 17510 0 0
+/img/foto_gruppo.gif
+1 34 0 2970238 0 0
+/img/glossario.gif
+1 60 0 83513 0 0
+/img/mario.jpg
+1 31 0 1050430 0 0
+/img/tit_biblio.gif
+1 1 0 1425 0 0
+/img/tit_crediti.gif
+1 5 0 10250 0 0
+/img/memoriaviaggio.gif
+1 8 0 518992 0 0
+/img/marcello.jpg
+1 28 0 1629612 0 0
+/img/sf_menu_up.gif
+1 56 0 17320 0 0
+/img/intro_04.jpg
+1 70 0 2202473 0 0
+/img/libri.gif
+1 59 0 69137 0 0
+/img/antidotum.gif
+1 24 0 292297 0 0
+/css/jquery/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 20 0 7524 0 0
+/img/tit_cantarpasqua.gif
+1 5 0 7905 0 0
+/img/barilla.gif
+1 8 0 459840 0 0
+/img/compilationCantarPasqua.gif
+1 28 0 801902 0 0
+/img/magicoros.gif
+1 26 0 208886 0 0
+/img/tit_allestimenti.gif
+1 6 0 11376 0 0
+/img/vociestrumenti_infelix.gif
+1 27 0 1742359 0 0
+/img/intro_03.jpg
+1 62 0 979240 0 0
+/img/imusicaliaHome.gif
+1 35 0 3419680 0 0
+# End Of Table - urls
+# -sites- (monthly)
+unallocated.star.net.uk
+0 2 1 3926 1 1306867854
+/
+crawl-66-249-72-48.googlebot.com
+0 4 4 14380 2 1304952519
+/
+89.123.40.126
+0 22 4 26970 1 1304869524
+-
+crawl-66-249-72-230.googlebot.com
+0 3 1 18012 0 0
+-
+119.63.196.121
+0 2 0 230 1 1305897722
+/
+174-20-250-168.mpls.qwest.net
+0 3 2 7466 1 1305442500
+/
+119.63.196.40
+0 2 0 230 0 0
+-
+119.63.196.46
+0 2 0 772 0 0
+-
+95.74.19.38
+0 117 115 1817034 1 1304970552
+/IT/recensioni.html
+host234-189-dynamic.7-87-r.retail.telecomitalia.it
+0 108 102 1321583 1 1304811173
+/IT/archivio_concerti.html
+119.63.196.51
+0 1 0 115 1 1304761026
+/
+119.63.196.52
+0 2 0 230 1 1304933103
+/
+119.63.196.53
+0 1 0 115 1 1306820036
+/
+66.249.72.130
+0 1 1 3595 1 1306162058
+/
+activeminds.net
+2 2 2 7190 1 1306181802
+/
+wsip-24-234-161-78.lv.lv.cox.net
+0 51 4 39408 2 1305814666
+-
+p57ad0d0f.dip0.t-ipconnect.de
+0 2 1 3268 1 1306127612
+/IT/intro.html
+2dayhost.com
+2 3 3 16278 1 1304339911
+/IT/intro.html
+66.249.72.148
+0 4 2 8034 1 1306422696
+/
+net.tr
+2 224 218 2687029 2 1306608703
+/IT/bibliografia.html
+119.63.196.70
+0 1 0 115 1 1304257088
+/
+crawl-66-249-72-129.googlebot.com
+0 3 2 7612 1 1306056836
+/
+194.169.234.13
+0 1 1 3595 1 1306644694
+/
+119.63.196.74
+0 2 0 230 1 1305040073
+/IT/
+119.63.196.76
+0 1 0 115 1 1306730620
+/
+119.63.196.77
+0 2 0 230 1 1306642635
+/
+94.36.210.222
+0 19 19 271297 1 1305472664
+/IT/intro.html
+66.249.72.153
+0 1 1 3595 1 1305212795
+/
+net.uk
+2 2 1 3926 1 1306867854
+/
+95.108.151.5
+0 1 1 9746 1 1306252380
+/IT/
+customer40111.111.kt.cust.t-mobile.co.uk
+0 27 6 40949 1 1306613130
+-
+93-58-179-92.ip159.fastwebnet.it
+0 105 103 1526927 1 1304253584
+/IT/concerti.html
+119.63.196.86
+0 1 0 115 1 1306119067
+/
+119.63.196.88
+0 1 0 115 1 1306380490
+/
+crawl-66-249-72-74.googlebot.com
+0 1 1 4557 0 0
+-
+msnbot-207-46-204-217.search.msn.com
+0 2 2 7970 1 1305421125
+/
+202.160.180.165
+0 1 0 386 0 0
+-
+119.63.196.90
+0 2 0 230 2 1306464662
+/
+119.63.196.91
+0 2 0 230 1 1306207523
+/
+208.77.96.98
+0 2 2 484 2 1306202544
+/
+thumbnail.cz
+2 15 15 274578 1 1304505354
+/
+natcrawlbloc01.net.m1.fti.net
+0 14 10 37134 10 1306868301
+/
+119.63.196.99
+0 1 0 115 1 1304428391
+/
+ec2-174-129-116-149.compute-1.amazonaws.com
+0 1 0 368 0 0
+-
+193.206.108.174
+0 122 114 2121865 1 1306431096
+/IT/dischi.html
+24.234.161.78
+0 12 4 22681 2 1305814661
+-
+93-63-151-102.ip28.fastwebnet.it
+0 23 21 348605 1 1306375414
+/
+dsl.static.85-105-28283.ttnet.net.tr
+0 132 128 1278383 1 1304632908
+/IT/teatro.html
+ks311135.kimsufi.com
+0 2 2 446 1 1306265032
+/
+host208-144-dynamic.247-95-r.retail.telecomitalia.it
+0 126 125 3037612 1 1304354136
+/IT/dischi.html
+173.242.125.191
+0 2 1 3945 1 1306780095
+/
+romtelecom.net
+2 24 5 30988 1 1305769898
+-
+msnbot-157-55-112-219.search.msn.com
+0 3 3 17080 1 1306695726
+/IT/
+crawl-66-249-72-155.googlebot.com
+0 1 1 4375 0 0
+-
+bm2.mx.stumbleupon.com
+0 19 19 311036 1 1305926249
+/
+host76-77-static.225-95-b.business.telecomitalia.it
+0 59 58 405584 1 1306259534
+/IT/intro.html
+msnbot-207-46-12-74.search.msn.com
+0 2 2 7970 1 1306505230
+/
+t-ipconnect.de
+2 2 1 3268 1 1306127612
+/IT/intro.html
+188.127.230.92
+0 2 1 3945 1 1305351594
+/
+95.143.198.24
+0 34 5 35274 1 1305541417
+-
+95.143.198.25
+0 27 4 29122 1 1305777938
+-
+tds.net
+2 1 0 283 1 1305637391
+/
+msnbot-65-52-110-43.search.msn.com
+0 2 0 573 1 1306785033
+/IT/intro.html
+93.34.50.45
+0 3 0 1291 1 1306044469
+-
+host188-33-static.15-79-b.business.telecomitalia.it
+0 115 113 1850941 1 1306342894
+/IT/archivio_concerti.html
+208.90.56.152
+0 1 1 3559 1 1306148109
+/
+93-34-58-8.ip48.fastwebnet.it
+0 25 5 30795 1 1306376620
+-
+yandex.ru
+2 44 14 66199 11 1306860498
+/
+crawl-66-249-72-1.googlebot.com
+0 1 0 422 0 0
+-
+93.70.195.155
+0 38 34 1977310 1 1306778845
+/IT/concerti.html
+217.201.54.178
+0 124 122 863156 1 1305670394
+/IT/concerti.html
+stgt-5f70e160.pool.mediaways.net
+0 2 1 3926 1 1304291473
+/
+75.101.170.202
+0 1 0 368 0 0
+-
+wordpress.com
+2 21 21 324046 1 1305411939
+/
+ovh.net
+2 12 12 2676 9 1306107278
+/
+207.46.199.52
+0 1 0 422 0 0
+-
+crawl3.majestic12.co.uk
+0 4 2 7890 1 1306162189
+/
+89.97.220.66
+0 101 70 750723 3 1306758875
+/IT/recapiti.html
+crawl-66-249-72-89.googlebot.com
+0 2 0 844 0 0
+-
+baiduspider-220-181-108-166.crawl.baidu.com
+0 2 0 230 2 1306805283
+/
+hostnoc.net
+2 8 8 28472 1 1304354307
+/
+host130-67-static.15-79-b.business.telecomitalia.it
+0 74 72 464860 1 1306718128
+/IT/concerti.html
+msnbot-207-46-199-52.search.msn.com
+0 1 0 151 1 1305935267
+/
+baiduspider-220-181-108-177.crawl.baidu.com
+0 1 0 115 1 1305223239
+/
+crawl-66-249-72-148.googlebot.com
+0 2 2 7190 1 1304791983
+/
+aiduspider-220-181-108-170.crawl.baidu.com
+0 1 0 115 1 1306719572
+/
+baiduspider-220-181-108-180.crawl.baidu.com
+0 1 0 115 1 1305626157
+/
+baiduspider-220-181-108-184.crawl.baidu.com
+0 1 0 115 1 1306465480
+/
+crawl-66-249-72-130.googlebot.com
+0 2 2 7190 1 1304520893
+/
+184.154.7.186
+0 3 0 1158 0 0
+-
+81.52.143.15
+0 2 0 772 0 0
+-
+h66-173-54-212.mntimn.dedicated.static.tds.net
+0 1 1 283 1 1305637391
+/
+87.7.189.234
+0 4 2 170154 0 0
+-
+dotnetdotcom.org
+2 1 0 367 0 0
+-
+crawl-66-249-72-49.googlebot.com
+0 4 4 14380 2 1305039094
+/
+d54c48cbe.access.telenet.be
+0 2 2 7080 1 1304257699
+/
+telenet.be
+2 2 2 7080 1 1304257699
+/
+sjdc-wtp-gb-maya4.sdi.trendnet.org
+0 2 2 5112 1 1306718252
+/IT/concerti.html
+kimsufi.com
+2 2 2 446 1 1306265032
+/
+fti.net
+2 14 10 37134 10 1306868301
+/
+217.46.205.54
+0 9 0 3879 1 1305626968
+-
+fastwebnet.it
+2 731 378 8822246 9 1306758864
+/IT/crediti.html
+net-93-144-242-164.cust.dsl.teletu.it
+0 94 88 5440979 1 1305918996
+/IT/dischi.html
+static-208-80-194-26.as13448.com
+0 1 1 3559 1 1304975581
+/
+comhem.se
+2 1 1 3559 1 1305546961
+/
+srv7.paul.activeminds.net
+0 2 2 7190 1 1306181802
+/
+87.6.26.44
+0 25 25 182842 1 1305069324
+/IT/intro.html
+151.76.101.179
+0 88 87 787145 1 1306767987
+/IT/intro.html
+184-82-95-178.hostnoc.net
+0 8 8 28472 1 1304354307
+/
+static-208-80-194-37.as13448.com
+0 5 5 17795 4 1306265081
+/
+spider63.yandex.ru
+0 15 7 28541 5 1306860498
+/
+109.73.87.227
+0 219 212 21681663 1 1306709031
+/IT/glossario.html
+crawl-66-249-72-75.googlebot.com
+0 2 1 4017 1 1306681173
+/
+yahoo.net
+2 8 4 15394 4 1306464812
+/
+dsl88-246-50634.ttnet.net.tr
+0 92 90 1408646 1 1306608703
+/IT/bibliografia.html
+btopenworld.com
+2 19 5 28846 1 1305626968
+-
+crawl03.exabot.com
+0 2 2 7118 1 1305599063
+/
+92.f5.344a.static.theplanet.com
+0 2 2 7118 1 1304975161
+/
+msnbot-207-46-12-24.search.msn.com
+0 2 2 7970 1 1305394642
+/
+95.225.77.76
+0 24 23 158809 1 1306259533
+/IT/
+151.75.113.150
+0 146 132 2628346 1 1306439517
+/IT/archivio_concerti.html
+baidu.com
+2 13 0 1495 11 1306805283
+/
+95.231.77.95
+0 11 11 260223 1 1305399265
+/IT/crediti.html
+122-116-159-151.hinet-ip.hinet.net
+0 1 1 3540 1 1305531684
+/
+38.112.3.162
+0 1 0 426 1 1306613898
+-
+stumbleupon.com
+2 19 19 311036 1 1305926249
+/
+segment-119-226.sify.net
+0 1 1 3595 1 1304372266
+/
+crawl-66-249-72-90.googlebot.com
+0 1 0 422 0 0
+-
+123systems.net
+2 7 5 18567 4 1306604528
+/
+sticker01.yandex.ru
+0 3 2 7612 1 1305901774
+/
+g191235.upc-g.chello.nl
+0 16 5 26941 1 1306480031
+-
+dynamic-adsl-94-36-210-222.clienti.tiscali.it
+0 87 84 900705 1 1305472669
+/IT/dischi.html
+crawl-66-249-72-46.googlebot.com
+0 1 1 3595 1 1304780253
+/
+host90-150-dynamic.2-79-r.retail.telecomitalia.it
+0 22 21 355422 1 1305463789
+/
+adsl92-82-234-82.romtelecom.net
+0 24 5 30988 1 1305769898
+-
+5.ovz.chicago.123systems.net
+0 7 5 18567 4 1306604528
+/
+41-134-151-41.dsl.mweb.co.za
+0 25 4 28271 1 1304339507
+-
+157.55.17.105
+0 2 0 844 0 0
+-
+89-97-220-66.ip19.fastwebnet.it
+0 449 142 5224774 5 1306758864
+/IT/crediti.html
+crawl-66-249-72-2.googlebot.com
+0 2 0 844 0 0
+-
+sls-gb15p2.dca2.superb.net
+0 1 1 3606 1 1304448514
+/
+sify.net
+2 1 1 3595 1 1304372266
+/
+crawl-66-249-72-50.googlebot.com
+0 7 5 20743 2 1306768365
+/
+vodafone.it
+2 135 112 2699318 1 1306779050
+/IT/glossario.html
+baiduspider-220-181-108-172.crawl.baidu.com
+0 3 0 345 2 1306635083
+/
+151.12.5.22
+0 150 146 2423507 1 1305670383
+/IT/gruppo.html
+87.219.53.135
+0 3 0 1276 1 1306473937
+-
+baiduspider-220-181-108-176.crawl.baidu.com
+0 1 0 115 1 1304980442
+/
+crawl-66-249-72-79.googlebot.com
+0 2 2 7190 1 1305903814
+/
+78.5.138.196
+0 16 16 452124 1 1306845049
+/IT/gruppo.html
+as13448.com
+2 33 33 117447 24 1306877352
+/
+stellarsolutions.com
+2 21 5 29714 1 1306673167
+-
+64.187.28.3
+0 2 0 824 1 1306323786
+/
+hetzner-gw.ihdev.net
+0 2 1 3945 1 1304466904
+/
+host44-26-dynamic.6-87-r.retail.telecomitalia.it
+0 54 52 328159 1 1305069324
+/IT/
+baiduspider-220-181-108-187.crawl.baidu.com
+0 2 0 230 1 1306447775
+/
+93.217.105.186
+0 2 1 3926 1 1306691593
+/
+crawl-66-249-72-149.googlebot.com
+0 2 0 844 0 0
+-
+host208-53-dynamic.11-87-r.retail.telecomitalia.it
+0 18 18 338009 1 1306259058
+/
+109.73.87.94
+0 3 3 697880 0 0
+-
+crawl-66-249-72-131.googlebot.com
+0 1 0 422 0 0
+-
+qwest.net
+2 3 2 7466 1 1305442500
+/
+static-208-80-194-36.as13448.com
+0 1 1 3559 1 1305348218
+/
+188.127.225.196
+0 5 4 14622 1 1304555624
+/
+unet.nl
+2 2 1 3926 1 1305621438
+/
+93-34-50-45.ip48.fastwebnet.it
+0 24 4 27845 1 1306044470
+-
+h-96-175.scoutjet.com
+0 5 2 8277 1 1306089874
+/
+109.52.65.161
+0 319 315 7330961 1 1304636842
+/IT/glossario.html
+host95-77-static.231-95-b.business.telecomitalia.it
+0 163 161 3426886 1 1305399199
+/IT/libri.html
+79.2.150.90
+0 8 6 131291 1 1305463789
+/
+googlebot.com
+2 58 34 149597 20 1306853674
+/
+host212-30-dynamic.235-95-r.retail.telecomitalia.it
+0 94 86 1221420 1 1306856750
+/IT/gruppo.html
+amazonaws.com
+2 1 0 368 0 0
+-
+crawl-66-249-72-153.googlebot.com
+0 2 2 7190 2 1305419487
+/
+ti0031a380-dhcp1014.bb.online.no
+0 3 1 4331 1 1306338040
+/
+79.15.67.130
+0 16 15 225301 0 0
+-
+crawl-66-249-72-109.googlebot.com
+0 1 1 3595 1 1304866652
+/
+95.108.246.253
+0 2 2 7190 1 1305542118
+/
+jazztel.es
+2 20 4 26132 1 1306473938
+-
+208-115-111-69-reverse.wowrack.com
+0 3 1 4274 1 1306298785
+/
+208.80.194.26
+0 2 2 7118 2 1305448943
+/
+208.80.194.29
+0 3 3 10677 3 1306746338
+/
+msnbot-157-56-2-62.search.msn.com
+0 6 4 27310 1 1306184319
+/
+163.21.203.125
+0 28 6 34603 1 1304996013
+-
+lj910089.crawl.yahoo.net
+0 2 0 772 0 0
+-
+217.31.112.66
+0 151 146 1608569 1 1305645778
+/IT/archivio_concerti.html
+lj910404.crawl.yahoo.net
+0 1 0 386 0 0
+-
+mshots1.sat.wordpress.com
+0 21 21 324046 1 1305411939
+/
+net-93-149-40-181.cust.dsl.teletu.it
+0 109 106 1726048 1 1306780176
+/IT/concerti.html
+telecomitalia.it
+2 1709 1653 24584087 18 1306856750
+/IT/gruppo.html
+150.70.75.30
+0 2 2 5824 1 1306718285
+/IT/intro.html
+static-208-80-194-30.as13448.com
+0 3 3 10677 2 1305850853
+/
+crawl1.majestic12.co.uk
+0 8 4 15780 4 1306515286
+/
+79.15.33.188
+0 5 5 26979 1 1306342713
+/
+193.47.80.39
+0 1 0 386 0 0
+-
+st-19-96-205-91.2dayhost.com
+0 3 3 16278 1 1304339911
+/IT/intro.html
+92.82.234.82
+0 3 0 1296 1 1305769887
+-
+crawl-66-249-72-91.googlebot.com
+0 1 0 422 0 0
+-
+hinet.net
+2 1 1 3540 1 1305531684
+/
+opendns.com
+2 3 3 10620 2 1306161825
+/
+chello.nl
+2 16 5 26941 1 1306480031
+-
+78-5-138-196-static.albacom.net
+0 117 115 1472514 1 1306845028
+/IT/concerti.html
+m18.pao.opendns.com
+0 3 3 10620 2 1306161825
+/
+static-208-80-194-35.as13448.com
+0 4 4 14236 4 1306585671
+/
+lj910466.crawl.yahoo.net
+0 4 4 14236 4 1306464812
+/
+151.81.16.38
+0 184 151 3237684 1 1306428706
+/IT/dischi.html
+205.185.127.253
+0 2 1 3945 1 1304996225
+/
+baiduspider-220-181-108-179.crawl.baidu.com
+0 1 0 115 1 1306039423
+/
+95.235.30.212
+0 18 17 466258 0 0
+-
+crawl-66-249-72-3.googlebot.com
+0 2 2 7190 2 1306249656
+/
+crawl-66-249-72-117.googlebot.com
+0 1 1 3595 1 1306853674
+/
+msn.com
+2 22 17 84964 8 1306785033
+/IT/intro.html
+151.75.102.203
+0 87 85 580776 1 1306610048
+/IT/intro.html
+84.53.72.72
+0 1 1 3540 1 1305621438
+/
+lj910134.crawl.yahoo.net
+0 1 0 0 0 0
+-
+static-208-80-194-29.as13448.com
+0 14 14 49826 8 1306877352
+/
+77.208.163.9
+0 31 5 33997 1 1305671013
+-
+cox.net
+2 51 4 39408 2 1305814666
+-
+94.23.211.138
+0 2 2 446 2 1305642321
+/
+ihdev.net
+2 2 1 3945 1 1304466904
+/
+teletu.it
+2 203 194 7167027 2 1306780176
+/IT/concerti.html
+crawl-66-249-72-110.googlebot.com
+0 3 0 1266 0 0
+-
+viglianoassociates.demarc.cogentco.com
+0 24 6 32879 1 1306613902
+-
+66.249.72.48
+0 1 0 422 0 0
+-
+stgt-4d03952c.pool.mediaways.net
+0 2 1 3926 1 1305804787
+/
+host92-153-dynamic.33-79-r.retail.telecomitalia.it
+0 104 101 1690239 1 1304264921
+/IT/concerti.html
+66.249.72.54
+0 1 0 422 0 0
+-
+38.105.173.198
+0 2 2 7118 1 1304531075
+/
+66.249.72.55
+0 1 1 3595 1 1306595195
+/
+135.53.219.87.dynamic.jazztel.es
+0 20 4 26132 1 1306473938
+-
+cogentco.com
+2 24 6 32879 1 1306613902
+-
+host57-196-dynamic.42-79-r.retail.telecomitalia.it
+0 140 138 2166247 1 1304262638
+/IT/crediti.html
+93.144.242.164
+0 19 18 192837 0 0
+-
+host144-209-dynamic.33-79-r.retail.telecomitalia.it
+0 85 83 713354 1 1304869423
+/IT/intro.html
+188.127.249.231
+0 5 4 14622 1 1305173894
+/
+88.246.197.202
+0 12 12 31910 0 0
+-
+66.249.72.77
+0 1 1 3595 1 1305815745
+/
+66.249.72.78
+0 2 0 844 0 0
+-
+albacom.net
+2 117 115 1472514 1 1306845028
+/IT/concerti.html
+crawl1.dotnetdotcom.org
+0 1 0 367 0 0
+-
+crawl-66-249-72-154.googlebot.com
+0 1 0 422 0 0
+-
+trendnet.org
+2 7 7 26492 1 1306718252
+/IT/concerti.html
+host135-90-dynamic.13-79-r.retail.telecomitalia.it
+0 128 125 2313932 1 1304278099
+/IT/dischi.html
+host157-254-static.63-82-b.business.telecomitalia.it
+0 99 96 1554642 1 1306183035
+/IT/gruppo.html
+84-53-72-72.adsl.unet.nl
+0 2 1 3926 1 1305621438
+/
+crawl-66-249-72-7.googlebot.com
+0 1 1 3595 1 1305558162
+/
+piano1.yandex.ru
+0 13 5 26186 5 1306353307
+/IT/intro.html
+exabot.com
+2 2 2 7118 1 1305599063
+/
+c213-89-140-133.bredband.comhem.se
+0 1 1 3559 1 1305546961
+/
+ppp-59-78.27-151.libero.it
+0 27 5 31660 1 1306410372
+-
+80.57.191.235
+0 6 0 2574 1 1306480030
+-
+host48-6-dynamic.250-95-r.retail.telecomitalia.it
+0 16 16 149045 1 1304376362
+/
+demo.stellarsolutions.com
+0 21 5 29714 1 1306673167
+-
+151.75.211.133
+0 142 139 2568295 1 1304279357
+/IT/dischi.html
+207.46.193.40
+0 3 3 17080 1 1306805032
+/IT/
+online.no
+2 3 1 4331 1 1306338040
+/
+ns304381.ovh.net
+0 12 12 2676 9 1306107278
+/
+220.181.108.169
+0 1 0 115 1 1306108050
+/
+tiscali.it
+2 87 84 900705 1 1305472669
+/IT/dischi.html
+static-208-80-194-34.as13448.com
+0 2 2 7118 2 1306234475
+/
+co.uk
+2 41 13 68564 7 1306613130
+-
+theplanet.com
+2 2 2 7118 1 1304975161
+/
+92.249.83.50
+0 1 0 386 0 0
+-
+gen-master-1.thumbnail.cz
+0 15 15 274578 1 1304505354
+/
+host173-65-dynamic.183-80-r.retail.telecomitalia.it
+0 106 101 1357263 1 1304258565
+/IT/dischi.html
+crawl-66-249-72-77.googlebot.com
+0 2 1 4017 1 1304434399
+/
+151.75.192.91
+0 96 93 1354874 1 1304263094
+/IT/gruppo.html
+93-42-11-245.ip84.fastwebnet.it
+0 105 103 1663300 1 1306243292
+/IT/recensioni.html
+superb.net
+2 1 0 3606 1 1304448514
+/
+crawl2.majestic12.co.uk
+0 2 1 3945 1 1304821301
+/
+host33-136-static.231-95-b.business.telecomitalia.it
+0 86 83 651363 1 1304273431
+/IT/intro.html
+net-93-70-195-155.cust.dsl.vodafone.it
+0 135 112 2699318 1 1306779050
+/IT/glossario.html
+wowrack.com
+2 3 1 4274 1 1306298785
+/
+host217-46-205-54.in-addr.btopenworld.com
+0 19 5 28846 1 1305626968
+-
+host70-63-dynamic.46-79-r.retail.telecomitalia.it
+0 112 102 1237526 1 1306775948
+/IT/dischi.html
+msnbot-207-46-204-210.search.msn.com
+0 4 4 15940 1 1305930928
+/
+sjdc-wtp-g3-maya4.sdi.trendnet.org
+0 5 5 21380 1 1306718234
+/IT/intro.html
+122.116.159.151
+0 3 1 4312 1 1305531684
+/
+crawl-66-249-72-147.googlebot.com
+0 3 0 1266 0 0
+-
+static-208-80-194-28.as13448.com
+0 3 3 10677 2 1306425977
+/
+imparser04.yandex.ru
+0 13 0 3860 0 0
+-
+119.63.196.15
+0 1 0 386 0 0
+-
+119.63.196.19
+0 2 0 230 1 1305777042
+/
+119.63.196.103
+0 2 0 230 1 1305630783
+/
+119.63.196.108
+0 1 0 115 1 1306032181
+/
+119.63.196.109
+0 2 0 230 1 1305200111
+/IT/intro.html
+119.63.196.27
+0 2 0 772 0 0
+-
+co.za
+2 25 4 28271 1 1304339507
+-
+85.105.110.123
+0 3 3 10656 1 1304632789
+/IT/
+scoutjet.com
+2 5 2 8277 1 1306089874
+/
+119.63.196.110
+0 1 0 115 1 1306553589
+/
+mediaways.net
+2 4 2 7852 2 1305804787
+/
+119.63.196.30
+0 2 2 7118 1 1306358537
+/
+119.63.196.118
+0 1 0 115 1 1305454396
+/
+119.63.196.33
+0 2 0 230 1 1304594746
+/
+libero.it
+2 27 5 31660 1 1306410372
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+unallocated.star.net.uk
+0 2 1 3926 1 1306867854
+/
+119.63.196.53
+0 1 0 115 1 1306820036
+/
+natcrawlbloc01.net.m1.fti.net
+0 2 1 3945 1 1306868301
+/
+baiduspider-220-181-108-166.crawl.baidu.com
+0 1 0 115 1 1306805283
+/
+spider63.yandex.ru
+0 2 1 4017 1 1306860498
+/
+crawl-66-249-72-75.googlebot.com
+0 1 0 422 0 0
+-
+78.5.138.196
+0 16 16 452124 1 1306845049
+/IT/gruppo.html
+host212-30-dynamic.235-95-r.retail.telecomitalia.it
+0 94 86 1221420 1 1306856750
+/IT/gruppo.html
+78-5-138-196-static.albacom.net
+0 117 115 1472514 1 1306845028
+/IT/concerti.html
+95.235.30.212
+0 18 17 466258 0 0
+-
+crawl-66-249-72-117.googlebot.com
+0 1 1 3595 1 1306853674
+/
+static-208-80-194-29.as13448.com
+0 1 1 3559 1 1306877352
+/
+207.46.193.40
+0 3 3 17080 1 1306805032
+/IT/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 1047
+http://imusicalia.it/
+0 1
+http://www.imusicalia.it/
+1 991
+http://imusicalia.it/IT/index.html
+0 4
+http://www.imusicalia.it/css/jquery/smoothness/jquery-ui-1.8.9.custom.css
+1 12
+http://www.calicanto.it/
+0 1
+http://www.imusicalia.it/IT/libri.html
+1 50
+http://www.google.it/
+0 1
+http://www.imusicalia.it/IT/index.html
+1 3234
+http://www.imusicalia.it/IT/concerti.html
+1 32
+http://arianna.libero.it/search/abin/integrata.cgi
+0 1
+http://www.imusicalia.it/IT/gruppo.html
+1 332
+http://www.imusicalia.it/SeraPassajePeSottoNaCella.mp3
+1 1
+http://www.imusicalia.it/IT/archivio_concerti.html
+1 151
+http://ultrabait.biz
+0 8
+http://www.google.it/search
+0 15
+http://www.imusicalia.it/IT/dischi.html
+1 388
+http://digilander.libero.it/imusicalia/
+0 5
+http://www.sitidi.com
+0 2
+http://www.imusicalia.it/IT/recensioni.html
+1 3
+http://ricerca.virgilio.it/ricerca
+0 3
+http://www.imusicalia.it/IT/cantarpasqua.html
+1 47
+http://www.google.it/url
+0 30
+# End Of Table - referrers
+# -agents- 
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 6
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 46
+Python-urllib/2.4
+0 1
+Java/1.5.0_09
+0 25
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; it-it) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18
+0 88
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{1C8A3E9F-AD9F-45A7-83A5-A2706EC3A3D2}; SV1; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 17
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; BTRS26718; SIMBAR={C4386CDE-02D1-4D2C-A934-C6684D8CA8F3}; GTB
+0 113
+Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html)
+0 9
+Googlebot-Image/1.0
+0 4
+Java/1.6.0_04
+0 27
+Java/1.6.0_11
+0 21
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; YComp 5.0.2.6; SV1)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; O
+0 105
+Java/1.6.0_15
+0 28
+Java/1.6.0_18
+0 53
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 96
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 7
+Java/1.6.0_20
+0 27
+Java/1.6.0_21
+0 22
+Java/1.6.0_22
+0 22
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {252529F2-9354-961C-95C7-3189F2EF5F62}; .NET CLR 1.0.3705; .NET CLR 2.0.50
+0 2
+Java/1.6.0_24
+0 106
+Mozilla/5.0 (Windows NT 5.1; rv:2.0) Gecko/20100101 Firefox/4.0
+0 124
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; YPC 3.2.0; .NET CLR 1.1.4322; yplus 5.1.04b)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 195
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071616 CentOS/3.0.1-1.el5.centos Firefox/3.0.1
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {F70454EA-FC56-4C10-CC8A-B0CB7069FDBC}; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; SpamBlockerUtility 10.0.327.0; ypl
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 79
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR={C46BA5E4-75B3-417d-BC2A-40881E317032}; .NET CLR 1.1.4322; Hotbar 1
+0 4
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 224
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)
+0 16
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; TheFreeDictionary.com; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.
+0 2
+Mozilla/5.0 (X11; U; Linux x86_64; en-us) AppleWebKit/525.1+ (KHTML, like Gecko, Safari/525.1+) pythumbnail.py
+0 18
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 548
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 87
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; RCP000.009.00510/7e168b4e6268aa9e624aef7fa6466f78)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 140
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)._
+0 6
+Mozilla/5.0 (Windows NT 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 142
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 59
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+0 2
+Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; YPC 3.0.1; .NET CLR 1.1.4322; SpamBlocker
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.2.0; Hotbar 4.3.2.0; yplus 5.1.04b)
+0 2
+Microsoft Internet Explorer
+2 3331
+Mozilla/5.0 (compatible; DNS-Digger-Explorer/1.04; +http://www.dnsdigger.com)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 9
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (compatible; Purebot/1.1; +http://www.puritysearch.net/)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; bgft; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS31753; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30
+0 104
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; TDSNET8; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {0E94AAFC-E147-D1FC-9F66-4BC6B9AA7F38})
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SIMBAR Enabled; SIMBAR={B598219B-6923-499d-9B6A-C049CF5124A1}; FunWebProdu
+0 1
+Java/1.4.1_04
+0 151
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.
+0 214
+DomainTaggingbot; +http://www.opendns.com/community/domaintagging
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.215
+0 109
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 147
+Mozilla/5.0 (compatible; ScoutJet; +http://www.scoutjet.com/)
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 18
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1)
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko) (Debian)
+0 15
+Mozilla/5.0 (compatible; YandexMedia/3.0; +http://yandex.com/bots)
+0 14
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17
+0 19
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3.2.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1;
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; FunWebProducts; InfoPath.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 16
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 
+0 184
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; iebar; acc=none; (none); iP-BLD03-PRE; .NET CLR 1.0.3705)
+0 1
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.2; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SIMBAR Enabled; SIMBAR={68517E16-B759-4395-AAF5-BF02713150EB}; SIMBAR=0; .
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 85
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; EasyBits GO v1.0; .NET4.0C; .NET4.0E)
+0 104
+Mozilla Firefox/4.0 (compatible; MSIE 7.0; Windows NT 5.0)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; ImageShack Toolbar 3.0.6)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; ZangoToolbar 4
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.60 Safari/534.24
+0 86
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.5.30729)
+0 319
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 169
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 294
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 150
+NSPlayer/11.0.5721.5275 WMFSDK/11.0
+0 7
+Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)
+0 66
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; FBSMTWB; SLCC1; .NET CLR 2.0.50727; InfoPath.1; OfficeLiveCon
+0 128
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 277
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; SpamBlocke
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 ( .NET CLR 3.5.30729)
+0 151
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+0 8
+Netscape
+2 2502
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBAR Enabled; SIMBAR={43A97470-67E6-49e9-98B6-74EB40A38F38}; SIMBAR
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 133
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Wanadoo042NLPP01HCFFFFFFE8; SV1; SIMBAR={2B30982A-505F-4a6c-8941-2F678BA39
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.2.0; SpamBlockerUtility 4.6.1; InfoPath.1; IEMB3; IEMB3)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; iebar; (none); (); .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.57 Safari/534.24
+0 106
+WordPress.com mShots; http://support.wordpress.com/contact/
+0 3
+Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6b
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 205
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 122
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; snprtz|T29652320270077)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 256
+libwww-perl/5.805
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16
+0 112
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
